@@ -1,0 +1,4 @@
+china,asia
+canada,estados unidos
+porto,portugal
+lisboa,portugal
